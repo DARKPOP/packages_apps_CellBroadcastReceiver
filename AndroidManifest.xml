@@ -77,7 +77,7 @@
                   android:exported="true" />
 
         <activity android:name="CellBroadcastAlertDialog"
-                  android:theme="@android:style/Theme.Material.Light.Dialog"
+                  android:theme="@android:style/Theme.Material.Dialog"
                   android:launchMode="singleTask"
                   android:exported="false"
                   android:configChanges="orientation|keyboardHidden|keyboard|navigation" />
